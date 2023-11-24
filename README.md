@@ -1,4 +1,4 @@
-# Sales Analysis Project
+# Repository For My Meriskill Internship Projects
 
 ## Role
 
@@ -6,8 +6,8 @@
 
 ## Tools
 
-     Microsoft Excel
+     Microsoft Excel, SQL
 
-## Project goal
+## Projects
 
-     To analyze and explore sales data to identify trends over time, top-selling products, revenue metrics for business decision-making and create visualizations to present your findings effectively.
+     Sales Analysis
